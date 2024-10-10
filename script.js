@@ -4,7 +4,7 @@
 // 2. fetch quiz questions
 
 // 100 seconds
-const QuizTime = 50;
+const QuizTime = 100;
 // question points
 const QuizQuestionPoints=1;
 // pass percentage
